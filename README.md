@@ -9,7 +9,7 @@ Installation
 
 bash
 
-git clone https://github.com/PragatiBairagi/sms-spam-detection.git
+git clone https://github.com/PragatiBairagi/sms-spam-classification.git
 cd sms-spam-detection
 pip install -r requirements.txt
 
